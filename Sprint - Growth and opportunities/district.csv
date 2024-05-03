@@ -1,0 +1,78 @@
+﻿district_id,city,state_name,state_abbrev,region,division,bank_branch
+1,New York City,New York,NY,Northeast,Middle Atlantic,Quay Manhattan
+2,Jacksonville,Florida,FL,South,South Atlantic,Quay Detroit Central
+3,Columbus,Ohio,OH,Midwest,East North Central,Quay Nachsville Main
+4,Charlotte,North Carolina,NC,South,South Atlantic,Quay Portland
+5,Indianapolis,Indiana,IN,Northeast,East North Central,Oklahoma City Quay
+6,Seattle,Washington,WA,West,Pacific,Quay Las Vegas
+7,Denver,Colorado,CO,West,Mountain,Louisville Quay
+8,Washington,District of Columbia,DC,South,South Atlantic,Quay Baltimore
+9,Boston,Massachusetts,MA,Northeast,New England,Milwaukee Central Quay
+10,Detroit,Michigan,MI,Midwest,East North Central,Quay Albuquerque
+11,Nashville,Tennessee,TN,South,East South Central,Atlanta State Quay
+12,Portland,Oregon,OR,West,Pacific,Quay Jacksonville
+13,Oklahoma City,Oklahoma,OK,South,West South Central,Quay Kansas City
+14,Las Vegas,Nevada,NV,West,Mountain,Omaha Branch Quay
+15,Louisville,Kentucky,KY,South,East South Central,Quay Virginia Beach
+16,Baltimore,Maryland,MD,South,South Atlantic,Minneapolis Quay
+17,Milwaukee,Wisconsin,WI,Midwest,East North Central,New Orleans Quay Central
+18,Albuquerque,New Mexico,NM,West,Mountain,Quay Wichita
+19,Atlanta,Georgia,GA,South,South Atlantic,Honolulu Quay
+20,Kansas City,Missouri,MO,Midwest,West North Central,San Antonio Quay
+21,Omaha,Nebraska,NE,Midwest,West North Central,Quay Anchorage
+22,Virginia Beach,Virginia,VA,South,South Atlantic,Newark Quay
+23,Minneapolis,Minnesota,MN,Midwest,West North Central,Quay Columbus Main St
+24,New Orleans,Louisiana,LA,South,West South Central,Boise Quay
+25,Wichita,Kansas,KS,Midwest,West North Central,Quay Des Moines
+26,Honolulu,Hawaii,HI,West,Pacific,Birmingham Quay
+27,San Antonio,Texas,TX,South,West South Central,Salt Lake City Quay
+28,Anchorage,Alaska,AK,West,Pacific,Little Rock Quay
+29,Newark,New Jersey,NJ,Northeast,Middle Atlantic,Quay Sioux Falls
+30,Boise,Idaho,ID,West,Mountain,Providence Quay
+31,Des Moines,Iowa,IA,Midwest,West North Central,Quay Jackson (Mississppi)
+32,Birmingham,Alabama,AL,South,East South Central,Bridgeport Quay
+33,Salt Lake City,Utah,UT,West,Mountain,Charleston Branch
+34,Little Rock,Arkansas,AR,South,West South Central,Quay Chalotte Mall 2nd Fl
+35,Sioux Falls,South Dakota,SD,Midwest,West North Central,Quay Fargo
+36,Providence,Rhode Island,RI,Northeast,New England,Quay Manchester
+37,Jackson,Mississippi,MS,South,East South Central,Quay Billings
+38,Bridgeport,Connecticut,CT,Northeast,New England,Wilmington Quay
+39,Charleston,South Carolina,SC,South,South Atlantic,Quay Portland of Maine
+40,Fargo,North Dakota,ND,Midwest,West North Central,Cheyenne Quay
+41,Manchester,New Hampshire,NH,Northeast,New England,Quay San Diego
+42,Billings,Montana,MT,West,Mountain,Charleston Central Quay WV
+43,Wilmington,Delaware,DE,South,South Atlantic,Quay Worcester
+44,Portland,Maine,ME,Northeast,New England,Burlington Quay
+45,Cheyenne,Wyoming,WY,West,Mountain,Indiana Quay Ltd Branch
+46,San Diego,California,CA,West,Pacific,Quay Buffalo
+47,Charleston,West Virginia,WV,South,South Atlantic,Springfield Quay
+48,Worcester,Massachusetts,MA,Northeast,New England,New Haven Quay
+49,Burlington,Vermont,VT,Northeast,New England,Hartford Quay
+50,Buffalo,New York,NY,Northeast,Middle Atlantic,Quay Houston Eastside
+51,Springfield,Massachusetts,MA,Northeast,New England,Lowell Quay
+52,New Haven,Connecticut,CT,Northeast,New England,Cambridge Quay
+53,Hartford,Connecticut,CT,Northeast,New England,New Bedford Quay
+54,Houston,Texas,TX,South,West South Central,Quay Brockton
+55,Lowell,Massachusetts,MA,Northeast,New England,Quincy Quay
+56,Cambridge,Massachusetts,MA,Northeast,New England,Seattle Central Quay branch
+57,New Bedford,Massachusetts,MA,Northeast,New England,Quay Lynn
+58,Brockton,Massachusetts,MA,Northeast,New England,Fall River Quay
+59,Quincy,Massachusetts,MA,Northeast,New England,Quay Nashua
+60,Lynn,Massachusetts,MA,Northeast,New England,Norwalk Quay
+61,Fall River,Massachusetts,MA,Northeast,New England,Quay Phoenix South Central
+62,Nashua,New Hampshire,NH,Northeast,New England,Newton Quay
+63,Norwalk,Connecticut,CT,Northeast,New England,Quay Warwick
+64,Phoenix,Arizona,AZ,West,Mountain,Danbury Quay
+65,Newton,Massachusetts,MA,Northeast,New England,Quay Cranston
+66,Warwick,Rhode Island,RI,Northeast,New England,Lawrence Quay branch
+67,Danbury,Connecticut,CT,Northeast,New England,Denver Colorado Branch
+68,Cranston,Rhode Island,RI,Northeast,New England,Quay Los Angeles Main st
+69,Lawrence,Massachusetts,MA,Northeast,New England,Somerville Quay
+70,Los Angeles,California,CA,West,Pacific,Quay Philadelphia Central
+71,Somerville,Massachusetts,MA,Northeast,New England,New Britain Quay
+72,Philadelphia,Pennsylvania,PA,Northeast,Middle Atlantic,Quay Chicago
+73,New Britain,Connecticut,CT,Northeast,New England,Rochester Quay
+74,Chicago,Illinois,IL,Northeast,East North Central,Quay Yonkers
+75,Rochester,New York,NY,Northeast,Middle Atlantic,Quay Syracuse branch
+76,Yonkers,New York,NY,Northeast,Middle Atlantic,Washinton State Quay
+77,Syracuse,New York,NY,Northeast,Middle Atlantic,Quay Boston College Row
